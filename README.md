@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbsoluteEj
-- 👀 I’m interested in Web Development, Cybersecurity, and everything related to Code/Programming.
+- 👀 I’m interested in Web Development, Cybersecurity, and everything related to Code/Programming Software.
 - 🌱 I’m currently learning to code, program, develop, engineer, which are all the same.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
